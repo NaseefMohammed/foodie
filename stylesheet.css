@@ -1,0 +1,150 @@
+
+    * {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+
+    #d1 {
+        background-color: black;
+        height: 70px;
+    }
+
+    #header {
+        width: 40%;
+        float: left;
+        height: 70px;
+        text-align: center;
+        line-height: 70px;
+        color: white;
+        font: bold;
+    }
+
+    a {
+        text-align: center;
+        color: white;
+        margin-right: 30px;
+        text-decoration: none;
+        line-height: 70px;
+    }
+
+    #home {
+        text-align: center;
+        width: 60%;
+        float: right;
+        height: 70px;
+        line-height: 70px;
+    }
+
+    body {
+        background: linear-gradient(45deg, red, black);
+    }
+
+    #title {
+        margin: 20px auto;
+        padding: 10px;
+    }
+    #mania {
+        width: 500px;
+        background: linear-gradient(45deg,orange,red);
+        color: white;
+        margin: 20px auto;
+        padding: 10px;
+        border-radius: 50%;
+    }
+
+    .Burger-sec {
+        width: 500px;
+        background: linear-gradient(45deg,orange,red);
+        margin: 20px auto;
+        padding: 10px;
+        border-radius: 50%;
+    }
+
+    #softdrinks {
+        width: 500px;
+        background: linear-gradient(45deg,orange,red);
+        margin: 20px auto;
+        padding: 10px;
+        border-radius: 50%;
+    }
+    p {
+        color: whitesmoke;
+        font: italic;
+    }
+
+    table {
+        width: 100%;
+        text-align: center;
+        margin: 20px auto;
+        padding: 20px;
+        font: bold;
+        color: wheat;
+        font-size: medium;
+    }
+.heading{
+  font-family: "Montserrat-black" sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+    #pizza-sec {
+        height: 350px;
+        width: 350px;
+    }
+
+    #burger-sec{
+        height: 200px;
+        width: 300px;
+        box-shadow: 0 0 20px orange;
+        border-radius: 20px;
+    }
+    #softdrink-sec {
+        height: 250px;
+        width: 300px;
+        box-shadow: 0 0 20px orange;
+        border-radius: 20px;
+    }
+
+    #footer {
+        background: black;
+        padding: 30px;
+        color: white;
+        margin-top: 50px;
+    }
+
+
+
+    .fa {
+        padding: 20px;
+        font-size: 20px;
+        width: 20px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 4px;
+        border-radius: 20%;
+        }
+
+    .fa:hover {
+        opacity: 0.7;
+        }
+
+    .fa-facebook {
+        background: #3B5998;
+        color: white;
+        }
+
+    .fa-twitter {
+        background: #55ACEE;
+        color: white;
+        }
+
+    .fa-linkedin {
+        background: #007bb5;
+        color: white;
+        }
+
+    .fa-instagram {
+        background: #125688;
+        color: white;
+        }
